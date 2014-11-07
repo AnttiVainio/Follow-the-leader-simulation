@@ -1,0 +1,15 @@
+Screenshots of the program are available here:
+http://www.anttivainio.net/followtheleader
+
+
+This program is a simulation in which one unit is the leader and the other units follow the leader while trying to avoid colliding with each other. You can edit the current simulation and create your own in the program all in real-time.
+
+
+Running instructions:
+You need to have Python 2.7 and PyQt4 installed on your system to run this program. To run the program use Python interpreter to run main.py file in src-folder.
+
+
+This program was originally released on June 1st, 2012 at http://www.anttivainio.net
+
+You may use all the source codes for anything you want.
+
